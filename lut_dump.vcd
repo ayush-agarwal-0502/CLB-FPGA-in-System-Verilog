@@ -1,0 +1,31 @@
+$date
+	Sun Jun 25 14:18:55 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 1 ! lut_out $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 8 % variable_logic [7:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b110011 %
+0$
+0#
+0"
+1!
+$end
+#5
+1"
+#10
+1#
+0!
+#15
