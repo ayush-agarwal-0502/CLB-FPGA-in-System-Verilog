@@ -7,8 +7,9 @@ FPGA are made up of smaller blocks called __CONFIGURABLE LOGIC BLOCK (CLB)__ whi
 
 The exact structure of CLB's are kept private by big companies like Xilinx , however it is established that CLB's are essentially built up of __LOOK UP TABLE (LUT)__ . I decided to build a simple CLB , consisting of a LUT , a MUX , and a D Flip Flop . 
 
-![image](https://github.com/ayush-agarwal-0502/CLB-FPGA-in-System-Verilog/assets/86561124/507ea73b-0925-48fb-8a74-39efafb4ebc5)
-![image](https://github.com/ayush-agarwal-0502/CLB-FPGA-in-System-Verilog/assets/86561124/b5e69925-2180-4aec-8d64-e07d1489aa15)
+![image](https://github.com/ayush-agarwal-0502/CLB-FPGA-in-System-Verilog/assets/86561124/fba63e24-535b-468b-98cf-3b59b38990a6)
+![image](https://github.com/ayush-agarwal-0502/CLB-FPGA-in-System-Verilog/assets/86561124/6567d609-d123-42ca-bf4b-211b94d6f6a6)
+
 
 # CLB (Configurable Logic Block) Design 
 
